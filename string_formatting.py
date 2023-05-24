@@ -22,3 +22,6 @@ print((f'一個 {fruit:<10} {price} 元'))
 # 一個 apple      10 元
 
 
+
+
+
